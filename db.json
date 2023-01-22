@@ -1,0 +1,31 @@
+{
+  "productList": [
+    {
+      "productName": "apple",
+      "category": "fruit",
+      "freshness": "Brand New",
+      "price": 12,
+      "comment": "bjwe",
+      "date": "2023-01-31T00:00:00.000Z",
+      "id": 2
+    },
+    {
+      "productName": "apple",
+      "category": "fruit",
+      "freshness": "Brand New",
+      "price": 32,
+      "comment": "jgdew",
+      "date": "2023-01-25T00:00:00.000Z",
+      "id": 3
+    },
+    {
+      "productName": "mango",
+      "category": "fruit",
+      "freshness": "Second Hand",
+      "price": 21,
+      "comment": "n,khk",
+      "date": "2023-01-19T00:00:00.000Z",
+      "id": 4
+    }
+  ]
+}
